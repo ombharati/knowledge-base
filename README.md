@@ -1,8 +1,6 @@
 # Knowledge Base
 > *An evolutionary engineering scratchpad bridging high-level software abstractions with silicon realities.*
 
-Welcome. My name is **Om Bhartai**, and I am a student of computer systems and low-level engineering. My technical focus lies at the intersection of software, networking & infrastructure enginnering. 
-
 I built this space to document the journey of pushing high-level software constructs down to the metal—from register-level manipulations and VLSI concepts to the physical signals that govern our machines. Whether it is mapping asymmetric cryptographic handshakes like WebAuthn directly to how hardware TPMs and Secure Enclaves isolate private keys, this repository is where theory meets the unforgiving reality of hardware.
 
 ### Purpose of This Repository
@@ -23,6 +21,3 @@ To accurately reflect the realities of systems engineering, the documentation wi
 *   **Deconstructed Code Blocks:** Large, monolithic utilities are broken down into bite-sized, heavily commented C and Python snippets. Each block is clinically dissected to expose its underlying mechanics, memory management principles, and direct hardware interactions.
 
 <br>
-
-> *"Abstractions are beautiful, but silicon demands the truth. True engineering begins where the documentation ends."*  
-> **— Om Bharati**
